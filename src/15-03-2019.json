@@ -1,0 +1,112 @@
+[
+    {
+        "topic": "x",
+        "question_id": "1",
+        "question": "Tes123",
+        "option_A": "aaaa",
+        "option_B": "bbbb",
+        "option_C": "cccc",
+        "option_D": "dddd",
+        "option_E": "eeee",
+        "answer": "a"
+    },
+    {
+        "topic": "x",
+        "question_id": "2",
+        "question": "soalke2",
+        "option_A": "aa",
+        "option_B": "bb",
+        "option_C": "cc",
+        "option_D": "dd",
+        "option_E": "ee",
+        "answer": "a"
+    },
+    {
+        "topic": "Politic History",
+        "question_id": "4",
+        "question": "The first President of Indonesia",
+        "option_A": "Asep",
+        "option_B": "Bambang",
+        "option_C": "Tatang",
+        "option_D": "Kevin",
+        "option_E": "Udin",
+        "answer": "a"
+    },
+    {
+        "topic": "Politic History",
+        "question_id": "3",
+        "question": "Merek Handphone",
+        "option_A": "Asep",
+        "option_B": "Bambang",
+        "option_C": "Tatang",
+        "option_D": "Kevin",
+        "option_E": "Opo",
+        "answer": "e"
+    },
+    {
+        "topic": "Drinks",
+        "question_id": "5",
+        "question": "Merek minuman",
+        "option_A": "Asus",
+        "option_B": "Tupperware",
+        "option_C": "Daihatsu",
+        "option_D": "Aqua",
+        "option_E": "Top One",
+        "answer": "d"
+    },
+    {
+        "topic": "Drinks",
+        "question_id": "6",
+        "question": "Merek makanan",
+        "option_A": "LG",
+        "option_B": "Pixar",
+        "option_C": "Indomi",
+        "option_D": "Maspion",
+        "option_E": "Toto",
+        "answer": "c"
+    },
+    {
+        "topic": "Bengkel",
+        "question_id": "7",
+        "question": "Perlengkapan Bengkel awdadasd adawdawd sdv ergre dsfaegerg edvdsfgersgersgdfgsg jnskjfbajkefnwajefn snflasjfnwaegnw \r\n    awfjpwjf awafffff sdfaneljfbpj Dadwawldnawlfnwof mngaelgboaegn a",
+        "option_A": "08124unadaw",
+        "option_B": "wpogn323n43",
+        "option_C": "w0-j3wfn3",
+        "option_D": "q3ibf3jfbj3",
+        "option_E": "Tang",
+        "answer": "e"
+    },
+    {
+        "topic": "Artis",
+        "question_id": "8",
+        "question": "Artis Indonesia",
+        "option_A": "Tzuyu",
+        "option_B": "Dora",
+        "option_C": "Spongebob",
+        "option_D": "Noctis",
+        "option_E": "Asep",
+        "answer": "e"
+    },
+    {
+        "topic": "Artis",
+        "question_id": "9",
+        "question": "Ras",
+        "option_A": "Nigga",
+        "option_B": "White",
+        "option_C": "Chinese",
+        "option_D": "Indian",
+        "option_E": "is",
+        "answer": "a"
+    },
+    {
+        "topic": "Artis",
+        "question_id": "10",
+        "question": "Hero Dota Favorit",
+        "option_A": "Riki Martin",
+        "option_B": "ENigga",
+        "option_C": "Dark Skeen",
+        "option_D": "Omingay",
+        "option_E": "Tsubasa",
+        "answer": "b"
+    }
+]
